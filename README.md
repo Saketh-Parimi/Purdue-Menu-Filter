@@ -31,7 +31,7 @@ Step-by-step: how does someone who just cloned your repo get it
 running?
 
 ```bash
-git clone https://github.com/you/your-project
+git clone https://github.com/Saketh-Parimi/Purdue-Menu-Filter
 cd Purdue-Menu-Filter
 python (or python3 on mac) -m venv venv
 source venv/bin/activate
